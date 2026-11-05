@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://longbeachhvacco.com/sitemap.xml
